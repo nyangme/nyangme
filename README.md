@@ -7,7 +7,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Vulnerability Management Program Implementation]()**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
-
+<!--
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)]()**
+-->
